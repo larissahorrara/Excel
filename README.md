@@ -9,3 +9,4 @@ Ao concluir este desafio, você será capaz de:
 Aplicar os conceitos aprendidos em um ambiente prático;
 Documentar processos técnicos de forma clara e estruturada; 
 Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica
+LINK DO ARQUIVO https://docs.google.com/spreadsheets/d/1d2ktnYT-s__fnQdlCbLqBYNW2pfaofYf/edit?usp=sharing&ouid=114851236500972591502&rtpof=true&sd=true
